@@ -15,11 +15,10 @@ Visualizes routes, activity, time intervals, and key metrics.
 ![Точечный рисунок-](https://github.com/user-attachments/assets/32c3423b-1357-4830-a9b4-cdb1fb85a47e)
 
 ## 📁 Repository Contents
-- ` ` — Tableau dashboard file
+-  https://drive.google.com/file/d/1qVbTUsujPot0sr_uNHUwmrrimokbg4l0/view?usp=sharing  — Tableau dashboard file
 
 ## 🔗 Tableau Public 
 (https://public.tableau.com/app/profile/stanislav.voleniuk/viz/BookPr1/Dashboard2)
 
-## 👤 Автор
-Имя Фамилия  
+## 👤 Author 
 (https://www.linkedin.com/in/voleniukstanislav/))
